@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Micael from Salo, Finland<br><br>- I’m working as CEO of SoundRaste<br>- I'm currently learning programming at Salo Vocational School<br>- In my free time I play guitar and make music with Logic Pro</p>
+<p align="left">I'm Micael from Espoo, Finland<br><br>- I'm currently learning programming in Metropolia<br>- My main programming language is Swift and I focus on iOS<br>- In my free time I play guitar and make music with Logic Pro<br>- I also like to work on cars</p>
 
 ###
 
