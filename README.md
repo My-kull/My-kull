@@ -1,5 +1,5 @@
 # 💫 About Me:
-⌨️ I’m currently working on an AAOS based infotainment system<br>📚Currently enrolled in Metropolia University of Applied Sciences studying programming<br>🌱 I’m currently learning AWS, React.JS, Kotlin, JavaScript and more<br>💬 Ask me about car infotainment systems<br>📍I reside in Espoo, Finland
+⌨️ I’m currently working on an AAOS based infotainment system<br>📚Currently enrolled in Metropolia University of Applied Sciences studying programming<br>🌱 I’m currently learning AWS, React.JS, Kotlin, JavaScript and more<br>💬 Neovim all the way<br>📍I reside in Espoo, Finland
 
 
 ## 🌐 Socials:
